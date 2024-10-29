@@ -2,8 +2,11 @@
 <!--Titulo-->
 <h1><p align="center">Hello, I'm Alejo Lucero! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <!--Yo-->
+
 - 👨‍💻 I am currently working on personal projects to continue gaining knowledge
+ 
 - 📚 Learning everything about Frontend and Backend technologies 😅
+ 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
